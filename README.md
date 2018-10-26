@@ -9,8 +9,8 @@ These designs are released under the Creative Commons Attribution 4.0 Internatio
 Unfortunately, HP does not provide a cable that can connect the Vive Pro linkbox to the backpack's power supply at this time. We designed and had manufactured a custom power cable to fit this need (which we use alongside the short USB cable that comes with the Vive Pro and short mDP cable https://goo.gl/NZd3DP).
 
 The specifications for a power cable that will connect the Vive Pro linkbox to an HP Z backpack are:
-- Smaller side: 3.8mm x 1.35mm Male, 9mm length, inner barrel positive
-- Larger side: 4mm x 1.75mm Male, 11.5mm length, inner barrel positive
+- Link box side: 3.8mm x 1.35mm Male, 9mm length, inner barrel positive
+- Backpack side: 4mm x 1.75mm Male, 11.5mm length, inner barrel positive
 
 ## Custom plastic insert
 Because HTC does not provide a short cable to connect the Vive Pro HMD to the Vive Pro linkbox (the cable in the wireless adapter kit doesn't work), it's necessary to find a way to manage the long cable (and the linkbox itself) when using a VR backpack. We designed a acrylic insert that fits between the backpack computer and the harness and can be used to mount the linkbox and cables using cable ties (we use velcro ties).
