@@ -17,5 +17,10 @@ Because HTC does not provide a short cable to connect the Vive Pro HMD to the Vi
 
 We provide here a laser cutter design for the plastic insert. This design is intended to be used with two-color laser cutter materials. Blue indicates cut lines, and black indicates etch areas. Velcro ties are used in the thin blue slots to secure the link box and cabling to the insert.
 
+We used impact-modified 1/8" thick 2-ply acrylic laminate sheets to make our inserts. This material provided enough flexiibility to make it easy to put the insert in but was strong enough to resist breakage.
+
 ## Orders
 Please feel free to produce any of these items yourself (within the constraints of the license). If you need help manufacturing these items, we have already contracted for production with two companies in the United States. You can reach out to us at tech@simxar.com and may be able to help you get them produced as well. We also welcome any suggestions for improvement or alternatives you may have!
+
+## License
+If for some reason this license doesn't work for you, contact us at tech@simxar.com and we may be able to work something different out for you.
