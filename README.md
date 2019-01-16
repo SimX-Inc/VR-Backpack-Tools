@@ -15,7 +15,9 @@ The specifications for a power cable that will connect the Vive Pro linkbox to a
 ## Custom plastic insert
 Because HTC does not provide a short cable to connect the Vive Pro HMD to the Vive Pro linkbox (the cable in the wireless adapter kit doesn't work), it's necessary to find a way to manage the long cable (and the linkbox itself) when using a VR backpack. We designed a acrylic insert that fits between the backpack computer and the harness and can be used to mount the linkbox and cables using cable ties (we use velcro ties).
 
-We provide here a laser cutter design for the plastic insert. This design is intended to be used with two-color laser cutter materials. Blue indicates cut lines, and black indicates etch areas. Velcro ties are used in the thin blue slots to secure the link box and cabling to the insert.
+We provide [here](https://github.com/SimX-Inc/VR-Backpack-Tools/blob/master/Insert-LaserCutterDesign-v6.eps?raw=true) a laser cutter design for the plastic insert. This design is intended to be used with two-color laser cutter materials. Blue indicates cut lines, and black indicates etch areas. Velcro ties are used in the thin blue slots to secure the link box and cabling to the insert.
+
+![InsertPhoto](https://github.com/SimX-Inc/VR-Backpack-Tools/blob/master/IMG_20180906_215102.jpg?raw=true)
 
 We used impact-modified 1/8" thick 2-ply acrylic laminate sheets to make our inserts. This material provided enough flexiibility to make it easy to put the insert in but was strong enough to resist breakage.
 
